@@ -1,2 +1,2 @@
 # WRO
-Github de WRO, Costa Rica
+Github of WRO, Costa Rica
