@@ -1,2 +1,2 @@
-# Robot Photos
-This folder corresponds to the vehicle photos from different angles.
+# Robot Photos 
+This folder contains 6 photos corrisponding to the vehicle seen from different angles.
